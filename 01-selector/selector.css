@@ -1,0 +1,15 @@
+.daftar-siswa {
+    background-color: gainsboro;
+}
+
+#daftar-siswa-unggulan {
+    background-color: #60A5F4;
+}
+
+#daftar-siswa-rata-rata {
+    background-color: #F87171;
+}
+
+p:hover {
+    background-color: #E5E7EB;
+}
